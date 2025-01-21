@@ -20,6 +20,7 @@ if [[ $MAJOR != major ]]
           echo "Inserted into majors, $MAJOR"
       fi
   # get new major_id
+  
     fi
 
   # get course_id
