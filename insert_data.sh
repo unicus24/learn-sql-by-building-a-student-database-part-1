@@ -63,9 +63,10 @@ do
       # if not found
       if [[ -z $MAJOR_ID ]]
         then
-          #set to null
+          # set to null
+          MAJOR_ID=null
         fi
-      # set to null
+      
       # insert student
     fi
 done
